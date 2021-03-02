@@ -46,9 +46,9 @@ This line added by mansee ...
 
 
 
-
-
+This is a different line added by Pranbir, which can create a conflict.
 this line is aaded by mukul
+
 
 
 
@@ -146,8 +146,16 @@ I have added one code session in session_feature by paras kamble.
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> a58398b0619b75872d416cbb33d325f1bf3bcdab
+
+some more line
 /////
+
+
+
+
+some extra lines ... 
+
+
+
+x y z
