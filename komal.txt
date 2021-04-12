@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 hello I am komal 
 this is my first line /
 xffcgvhjkmnbndfg
 nbnbnbmbmn,
+=======
+
+hiiii I am done !
+what about you ?
+////////////////////
+>>>>>>> 7cd91fc9fcc8f36d976ad889fb88d5c77124e5c9
