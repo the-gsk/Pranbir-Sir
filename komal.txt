@@ -39,3 +39,5 @@ this is new code on 12/4/21
 
 hellooooooooooooooooooo
 
+this is new assignment2 
+performing something for practice 
