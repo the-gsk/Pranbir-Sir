@@ -1,5 +1,1 @@
 This is text
-
-
-
-we're learning git
