@@ -27,6 +27,7 @@ JVN
 hiiii everyone from Pranbir
 hiiii everyone from vidhya
 
+<<<<<<< HEAD
 hiiii everyone from komal
 hiiii everyone from komal
 hiiii everyone from komal
@@ -34,3 +35,13 @@ hiiii everyone from komal
 
 hiiii everyone from komal
 hiiii everyone from komal
+=======
+hello i am komal !
+hello i am komal !
+hello i am komal !
+hello i am komal !
+
+this is new line 
+///////////////
+kokkkjghfggf
+>>>>>>> e02cf98c510d1553f2b7d6e62ddadbce852271bb
