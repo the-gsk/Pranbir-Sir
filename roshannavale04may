@@ -1,0 +1,14 @@
+#this is the addition of two numbers in python 
+
+a=int (input("enter the first number ))
+b=int (input("enter the second number ))
+
+result = a+b
+
+print ("addition of two number is ",a,"+",b,"=",a+b)
+
+#this is for multiplication
+
+mul_result=a*b
+
+print ("multiplication of two number is ",a,"*",b,"=",mul_result)
