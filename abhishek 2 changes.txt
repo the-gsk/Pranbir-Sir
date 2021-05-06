@@ -7,3 +7,11 @@ Both are reusable code stored n file format for use again and again;
 library is kind os tool in the toolbox and the framework is whole toolbox ;
 in short when you need something in your code file you call the libary in your code but suposs you need another library to perform another task ,So you need to call another library .
 but with framework you have everything and beyond everything.sometimes the extra stuff that you dont want.With framework framework decides where to put your code .
+
+
+
+
+
+
+
+abhsihek 2
