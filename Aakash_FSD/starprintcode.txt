@@ -1,0 +1,14 @@
+Write a programm to print following star pattern
+
+*
+* *
+* * * 
+* * * *
+
+CODE:
+
+for i in range(5):
+
+  print(" " * (i+1) )
+  print("  * " * (i+1))
+  print(" ")
