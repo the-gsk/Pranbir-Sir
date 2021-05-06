@@ -12,3 +12,7 @@ for i in range(5):
   print(" " * (i+1) )
   print("  * " * (i+1))
   print(" ")
+
+print (" you are good")  
+
+please review my changes 
