@@ -4,8 +4,15 @@ this is 2nd assignment
 i have made these changes
 i have added these lines 
 
+<<<<<<< HEAD
 this is 3rd assignment
 
 this is first code
 in python 
 print("hello world")
+=======
+this is assignment no 3
+
+this is second code
+print("hello aliens")
+>>>>>>> 1dd8fa3af679076b7f1877dccddee917c0a52bd6
