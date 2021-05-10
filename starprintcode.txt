@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 i=1
 while i<=10:
  print(1)
 i=i++
-=======
+
 wtie a program to rint star patern
 *
 
@@ -21,4 +21,4 @@ def pypart(n):
 n = 5
 pypart(n)
 
->>>>>>> FSD_aakash_branch3
+
