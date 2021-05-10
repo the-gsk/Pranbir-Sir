@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 i=1
 while i<=10:
  print(1)
 i=i++
+=======
+wtie a program to rint star patern
+*
+
+*      *       
+
+*       *         *
+
+def pypart(n):
+    myList = []
+    for i in range(1,n+1):
+        myList.append("*"*i)
+    print("\n".join(myList))
+ 
+# Driver Code
+n = 5
+pypart(n)
+
+>>>>>>> FSD_aakash_branch3
