@@ -1,1 +1,7 @@
 YouTube is an online video platform owned by Google.
+
+YouTube provides several ways to watch videos, including the website,
+the mobile apps, and permitting other websites to embed them. 
+Available content includes music videos, video clips, 
+short and documentary films, audio recordings, movie trailers, live streams, 
+and video blogs
