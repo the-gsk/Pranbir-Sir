@@ -1,0 +1,7 @@
+HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects 
+such as interactive forms may be embedded into the rendered page. HTML provides a means to create 
+structured documents by denoting structural semantics for text such as headings, paragraphs, lists, 
+links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. 
+Tags such as <img /> and <input /> directly 
+introduce content into the page. 
+Other tags such as <p> surround and provide
