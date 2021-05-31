@@ -1,6 +1,7 @@
 this is rishi
 hsjshs
 
-User2's code
-Thisis to solve the conflict
-blaablabla bla bla bla
+
+User1's code
+This is attempt to make a conflict by user 1
+solving the conflict
