@@ -1,11 +1,11 @@
 jayesh created a new branch- jayesh2 and a file- FSD_jayesh
 
-i am a Mechnical Engineer
-And i am learning Web development
 
-Is it good!
-I wonder Why do people change their career path after their graduation
-some go to sales, some do Marketing
+below program is used to play songs on youtube via python:
+pre-requisites:  we need to install pywhatkit in terminal 
+Here it goes
+.............................
 
-thats is still a question in my mind
-thats it!
+import pywhatkit as kit
+kit.playonyt("Shape of you song")
+..................................
