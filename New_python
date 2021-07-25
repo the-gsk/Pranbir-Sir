@@ -1,3 +1,5 @@
 x = [ "orange", "banana", "apple"]
 for a in x
     print (a)
+    
+    Is is right or wrong please give confirmation
