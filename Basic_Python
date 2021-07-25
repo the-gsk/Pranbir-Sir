@@ -2,3 +2,9 @@ x= [ 12,20,30,40,51]
 for y in x:
     print(y)
     
+def func(a,b)
+    return a*b
+a= [ 1,2,4,6,8]
+
+output = (list(filter(func,a)))
+print (output)
