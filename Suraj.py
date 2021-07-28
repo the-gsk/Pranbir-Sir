@@ -1,6 +1,6 @@
 Age=int(input("Enter your Age.\n"))
-if Age>18:
-    print("You are Adult")
+if Age>25:
+    print("You are youth")
 else:
-    print("You are Teen")
+    print("You are youth")
 
