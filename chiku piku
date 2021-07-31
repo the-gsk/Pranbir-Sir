@@ -1,0 +1,10 @@
+x=[4,5,1,2,4,7,1,2,5,7,6,6,8]
+print(x)
+y=set(x)
+print(y)
+y.add(100)
+print(y)
+m=list(y)
+print(m)
+r=tuple(m)
+print(r)
