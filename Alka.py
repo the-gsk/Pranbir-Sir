@@ -1,8 +1,5 @@
-print("hello world")
-print ("hello alka")
+name= "Alka"
+w="Welcome World"
+print (w,"\n \t\tHi World ",name,"Here")
 
-a = 50
-b = 55
-c = a+b
-print(c)
 
